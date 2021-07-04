@@ -8,6 +8,7 @@ This a simple test using Onfido library.
 All information was taken from Onfido 
 
 https://developers.onfido.com/guide/general-introduction
+
 https://github.com/onfido/onfido-node
 
 Thiago Farias
